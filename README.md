@@ -1,16 +1,19 @@
-## Hi there 👋
+# Hey 👋, I'm Sameer Vohra
 
-<!--
-**SameerVohra404/SameerVohra404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Python Developer | Automation & Productivity Tools**  
 
-Here are some ideas to get you started:
+🎓 **HND in Digital Technologies (AI Pathway) – GBS Dubai**  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔧 Focused on:  
+- Clean, readable Python projects  
+- Automation & productivity tools  
+- Beginner-friendly code with proper documentation  
+
+👨‍💻 About me:
+- Love to play video games, Path of exile is my favourite
+- Into anime - probably watching some dbz.amv
+- I like building things which are short, to point and useful
+
+💡 Open to **junior Python roles & internships**  
+
+> "Shipping working code > perfection"
