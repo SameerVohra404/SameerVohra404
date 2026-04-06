@@ -1,15 +1,20 @@
-# Hey 👋, I'm Sameer Vohra
+Hey 👋, I'm Sameer Vohra
 
-**Python Developer | Automation & Productivity Tools**  
+AI Analyst | Product Thinking | AI Systems & Evaluation
 
-🎓 **HND in Digital Technologies (AI Pathway) – GBS Dubai**  
+🎓 BCA Graduate | HND in Digital Technologies (AI Pathway) – GBS Dubai
 
-🔧 Focused on:  
-- Clean, readable Python projects  
-- Automation & productivity tools  
-- Beginner-friendly code with proper documentation  
+🔧 Focused on:
+
+AI systems (RAG, vector DBs, embeddings, LLM workflows)
+Product-oriented problem solving
+Building simple, practical AI-driven tools
 
 👨‍💻 About me:
-- Love to play video games
-- I like building things which are short, to point and useful 
-> "Shipping working code > perfection"
+
+Background in AI data annotation & LLM evaluation
+Experience in QA-style workflows, structured analysis, and cross-team coordination
+I focus on how systems behave in real-world use, not just how they are built
+I like building things that are simple, useful, and actually solve a problem
+
+"Good products reduce effort, not add to it."
